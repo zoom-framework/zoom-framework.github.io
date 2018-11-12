@@ -1,4 +1,4 @@
 # Table of content
 
-* [First Chapter](chapter1.md)
+* [First Chapter](helloworld/getting-started.md)
 star
