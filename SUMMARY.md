@@ -1,4 +1,4 @@
-# Table of content
+# 目录
 
-* [First Chapter](helloworld/getting-started.md)
-star
+* [开始](helloworld/getting-started.md)
+* [Helloworld](helloworld/helloworld.md)
